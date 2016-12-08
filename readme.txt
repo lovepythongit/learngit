@@ -1,3 +1,5 @@
+My stupid boss still prefers SVN.
+
 Git is a version control system.
 Git is free software.
 
