@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 git stash2
+=======
+git stash1
+>>>>>>> Stashed changes
 
 
 file1.txt
