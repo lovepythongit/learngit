@@ -1,4 +1,6 @@
 git stash2
 
+git stash1:
+
 
 file1.txt
